@@ -1,0 +1,14 @@
+[package]
+name = "rust-fibonacci-generator"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+license-file = "LICENSE"
+authors = ["Vladislav Subbotin <subb98@gmail.com>"]
+description = "Simple postgres raw sql migration generator and manager."
+homepage = "https://github.com/sunday-research/rust-fibonacci-generator"
+documentation = "https://github.com/sunday-research/rust-fibonacci-generator"
+repository = "https://github.com/sunday-research/rust-fibonacci-generator"
+readme = "README.md"
+keywords = ["rust-book", "example", "fibonacci", "generator"]
+categories = ["command-line-utilities"]
