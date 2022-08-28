@@ -3,7 +3,6 @@ name = "rust-fibonacci-generator"
 version = "0.1.0"
 edition = "2021"
 license = "MIT"
-license-file = "LICENSE"
 authors = ["Vladislav Subbotin <subb98@gmail.com>"]
 description = "Fibonacci sequence generator example."
 homepage = "https://github.com/sunday-research/rust-fibonacci-generator"
